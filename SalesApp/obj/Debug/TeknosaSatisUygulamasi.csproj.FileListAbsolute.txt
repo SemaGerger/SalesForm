@@ -1,0 +1,44 @@
+C:\Users\ARIBILGI\Desktop\TeknosaSatisUygulamasi\TeknosaSatisUygulamasi\bin\Debug\TeknosaSatisUygulamasi.exe.config
+C:\Users\ARIBILGI\Desktop\TeknosaSatisUygulamasi\TeknosaSatisUygulamasi\bin\Debug\TeknosaSatisUygulamasi.exe
+C:\Users\ARIBILGI\Desktop\TeknosaSatisUygulamasi\TeknosaSatisUygulamasi\bin\Debug\TeknosaSatisUygulamasi.pdb
+C:\Users\ARIBILGI\Desktop\TeknosaSatisUygulamasi\TeknosaSatisUygulamasi\obj\Debug\TeknosaSatisUygulamasi.csproj.AssemblyReference.cache
+C:\Users\ARIBILGI\Desktop\TeknosaSatisUygulamasi\TeknosaSatisUygulamasi\obj\Debug\TeknosaSatisUygulamasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\ARIBILGI\Desktop\TeknosaSatisUygulamasi\TeknosaSatisUygulamasi\obj\Debug\TeknosaSatisUygulamasi.Form1.resources
+C:\Users\ARIBILGI\Desktop\TeknosaSatisUygulamasi\TeknosaSatisUygulamasi\obj\Debug\TeknosaSatisUygulamasi.Properties.Resources.resources
+C:\Users\ARIBILGI\Desktop\TeknosaSatisUygulamasi\TeknosaSatisUygulamasi\obj\Debug\TeknosaSatisUygulamasi.csproj.GenerateResource.cache
+C:\Users\ARIBILGI\Desktop\TeknosaSatisUygulamasi\TeknosaSatisUygulamasi\obj\Debug\TeknosaSatisUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\ARIBILGI\Desktop\TeknosaSatisUygulamasi\TeknosaSatisUygulamasi\obj\Debug\TeknosaSatisUygulamasi.exe
+C:\Users\ARIBILGI\Desktop\TeknosaSatisUygulamasi\TeknosaSatisUygulamasi\obj\Debug\TeknosaSatisUygulamasi.pdb
+C:\Users\ARIBILGI\Desktop\Masaüstü\TeknosaSatisUygulamasi\TeknosaSatisUygulamasi\bin\Debug\TeknosaSatisUygulamasi.exe.config
+C:\Users\ARIBILGI\Desktop\Masaüstü\TeknosaSatisUygulamasi\TeknosaSatisUygulamasi\bin\Debug\TeknosaSatisUygulamasi.exe
+C:\Users\ARIBILGI\Desktop\Masaüstü\TeknosaSatisUygulamasi\TeknosaSatisUygulamasi\bin\Debug\TeknosaSatisUygulamasi.pdb
+C:\Users\ARIBILGI\Desktop\Masaüstü\TeknosaSatisUygulamasi\TeknosaSatisUygulamasi\obj\Debug\TeknosaSatisUygulamasi.csproj.AssemblyReference.cache
+C:\Users\ARIBILGI\Desktop\Masaüstü\TeknosaSatisUygulamasi\TeknosaSatisUygulamasi\obj\Debug\TeknosaSatisUygulamasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\ARIBILGI\Desktop\Masaüstü\TeknosaSatisUygulamasi\TeknosaSatisUygulamasi\obj\Debug\TeknosaSatisUygulamasi.Form1.resources
+C:\Users\ARIBILGI\Desktop\Masaüstü\TeknosaSatisUygulamasi\TeknosaSatisUygulamasi\obj\Debug\TeknosaSatisUygulamasi.Properties.Resources.resources
+C:\Users\ARIBILGI\Desktop\Masaüstü\TeknosaSatisUygulamasi\TeknosaSatisUygulamasi\obj\Debug\TeknosaSatisUygulamasi.csproj.GenerateResource.cache
+C:\Users\ARIBILGI\Desktop\Masaüstü\TeknosaSatisUygulamasi\TeknosaSatisUygulamasi\obj\Debug\TeknosaSatisUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\ARIBILGI\Desktop\Masaüstü\TeknosaSatisUygulamasi\TeknosaSatisUygulamasi\obj\Debug\TeknosaSatisUygulamasi.exe
+C:\Users\ARIBILGI\Desktop\Masaüstü\TeknosaSatisUygulamasi\TeknosaSatisUygulamasi\obj\Debug\TeknosaSatisUygulamasi.pdb
+D:\C# dersleri\form\TeknosaSatisUygulamasi son\TeknosaSatisUygulamasi\bin\Debug\TeknosaSatisUygulamasi.exe.config
+D:\C# dersleri\form\TeknosaSatisUygulamasi son\TeknosaSatisUygulamasi\bin\Debug\TeknosaSatisUygulamasi.exe
+D:\C# dersleri\form\TeknosaSatisUygulamasi son\TeknosaSatisUygulamasi\bin\Debug\TeknosaSatisUygulamasi.pdb
+D:\C# dersleri\form\TeknosaSatisUygulamasi son\TeknosaSatisUygulamasi\obj\Debug\TeknosaSatisUygulamasi.csproj.AssemblyReference.cache
+D:\C# dersleri\form\TeknosaSatisUygulamasi son\TeknosaSatisUygulamasi\obj\Debug\TeknosaSatisUygulamasi.csproj.SuggestedBindingRedirects.cache
+D:\C# dersleri\form\TeknosaSatisUygulamasi son\TeknosaSatisUygulamasi\obj\Debug\TeknosaSatisUygulamasi.Form1.resources
+D:\C# dersleri\form\TeknosaSatisUygulamasi son\TeknosaSatisUygulamasi\obj\Debug\TeknosaSatisUygulamasi.Properties.Resources.resources
+D:\C# dersleri\form\TeknosaSatisUygulamasi son\TeknosaSatisUygulamasi\obj\Debug\TeknosaSatisUygulamasi.csproj.GenerateResource.cache
+D:\C# dersleri\form\TeknosaSatisUygulamasi son\TeknosaSatisUygulamasi\obj\Debug\TeknosaSatisUygulamasi.csproj.CoreCompileInputs.cache
+D:\C# dersleri\form\TeknosaSatisUygulamasi son\TeknosaSatisUygulamasi\obj\Debug\TeknosaSatisUygulamasi.exe
+D:\C# dersleri\form\TeknosaSatisUygulamasi son\TeknosaSatisUygulamasi\obj\Debug\TeknosaSatisUygulamasi.pdb
+D:\YAZILIM DERS\projeler\TEKNOSA\TeknosaSatisUygulamasi son\TeknosaSatisUygulamasi\bin\Debug\TeknosaSatisUygulamasi.exe.config
+D:\YAZILIM DERS\projeler\TEKNOSA\TeknosaSatisUygulamasi son\TeknosaSatisUygulamasi\bin\Debug\TeknosaSatisUygulamasi.exe
+D:\YAZILIM DERS\projeler\TEKNOSA\TeknosaSatisUygulamasi son\TeknosaSatisUygulamasi\bin\Debug\TeknosaSatisUygulamasi.pdb
+D:\YAZILIM DERS\projeler\TEKNOSA\TeknosaSatisUygulamasi son\TeknosaSatisUygulamasi\obj\Debug\TeknosaSatisUygulamasi.csproj.AssemblyReference.cache
+D:\YAZILIM DERS\projeler\TEKNOSA\TeknosaSatisUygulamasi son\TeknosaSatisUygulamasi\obj\Debug\TeknosaSatisUygulamasi.csproj.SuggestedBindingRedirects.cache
+D:\YAZILIM DERS\projeler\TEKNOSA\TeknosaSatisUygulamasi son\TeknosaSatisUygulamasi\obj\Debug\TeknosaSatisUygulamasi.Form1.resources
+D:\YAZILIM DERS\projeler\TEKNOSA\TeknosaSatisUygulamasi son\TeknosaSatisUygulamasi\obj\Debug\TeknosaSatisUygulamasi.Properties.Resources.resources
+D:\YAZILIM DERS\projeler\TEKNOSA\TeknosaSatisUygulamasi son\TeknosaSatisUygulamasi\obj\Debug\TeknosaSatisUygulamasi.csproj.GenerateResource.cache
+D:\YAZILIM DERS\projeler\TEKNOSA\TeknosaSatisUygulamasi son\TeknosaSatisUygulamasi\obj\Debug\TeknosaSatisUygulamasi.csproj.CoreCompileInputs.cache
+D:\YAZILIM DERS\projeler\TEKNOSA\TeknosaSatisUygulamasi son\TeknosaSatisUygulamasi\obj\Debug\TeknosaSatisUygulamasi.exe
+D:\YAZILIM DERS\projeler\TEKNOSA\TeknosaSatisUygulamasi son\TeknosaSatisUygulamasi\obj\Debug\TeknosaSatisUygulamasi.pdb
